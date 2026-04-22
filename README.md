@@ -8,7 +8,7 @@ Me chamo Eric, tenho 22 anos e sou natural do Rio Grande do Sul. Atualmente curs
 ## 🛠️ Ferramentas & Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,ts,js,postgres,mongodb,sqlite,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,ts,js,postgres,mongodb,sqlite,docker,git,github" />
 </p>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -20,6 +20,7 @@ Me chamo Eric, tenho 22 anos e sou natural do Rio Grande do Sul. Atualmente curs
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white)
