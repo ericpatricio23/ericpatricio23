@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Eric Patricio
 `Desenvolvedor Back-End`
 
-Me chamo Eric, tenho 23 anos e sou natural do Rio Grande do Sul. Atualmente curso Análise e Desenvolvimento de Sistemas na URCAMP. A programação entrou na minha vida há 3 anos e desde então meu foco é a área da tecnologia — hoje atuo na construção de APIs sólidas e sistemas robustos utilizando Java com Spring Boot.
+Me chamo Eric, tenho 23 anos e sou natural do Rio Grande do Sul. Atualmente curso Análise e Desenvolvimento de Sistemas na URCAMP. A programação entrou na minha vida há 4 anos e desde então meu foco é a área da tecnologia — hoje atuo na construção de APIs sólidas e sistemas robustos utilizando Java com Spring Boot.
 
 ---
 
