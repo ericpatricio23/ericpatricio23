@@ -1,16 +1,10 @@
-# 👨🏻‍💻 Eric Patricio
-`Desenvolvedor Back-End`
-
+👨🏻‍💻 Eric Patricio
+Desenvolvedor Back-End
 Me chamo Eric, tenho 23 anos e sou natural do Rio Grande do Sul. Atualmente curso Análise e Desenvolvimento de Sistemas na URCAMP. A programação entrou na minha vida há 3 anos e desde então meu foco é a área da tecnologia — hoje atuo na construção de APIs sólidas e sistemas robustos utilizando Java com Spring Boot.
-
----
-
-## 🛠️ Ferramentas & Tecnologias
-
+🛠️ Ferramentas & Tecnologias
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,ts,js,postgres,mongodb,sqlite,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,ts,js,postgres,mongodb,sqlite,docker,linux,git,github" />
 </p>
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -21,6 +15,9 @@ Me chamo Eric, tenho 23 anos e sou natural do Rio Grande do Sul. Atualmente curs
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white)
