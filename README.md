@@ -1,6 +1,7 @@
 # 👨🏻‍💻 Eric Patricio
 
-**Desenvolvedor de softaware | Java • Spring Boot • PostgreSQL • Docker • Linux **
+**Desenvolvedor de Software | Java • Spring Boot • PostgreSQL • Docker • Linux**
+
 ---
 
 🇧🇷 [Português](#-português) • 🇺🇸 [English](#-english)
@@ -15,13 +16,33 @@ Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas** na **URC
 
 ---
 
+# 🛠️ Stack
+
+### 💻 Front-End
+
+HTML • CSS • JavaScript • TypeScript • Next.js
+
+### ☕ Back-End
+
+Java • Spring Boot • Spring Security • Maven • REST APIs
+
+### 🗄️ Banco de Dados
+
+PostgreSQL • MongoDB • Redis
+
+### 🐳 Infraestrutura & DevOps
+
+Linux • Docker • Docker Compose • Nginx • Git • GitHub
+
+---
+
 # 🛠️ Tecnologias | Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,docker,linux,nginx,maven,git,github,idea,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,redis,docker,linux,nginx,maven,git,github,html,css,js,ts,nextjs,idea,vscode,postman" />
 </p>
 
----
+--- 
 
 # 💼 LinkedIn
 
