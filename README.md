@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Eric Patricio
 
-**Back-End Developer | Java • Spring Boot • PostgreSQL • Docker • Linux **
+**Desenvolvedor de softaware | Java • Spring Boot • PostgreSQL • Docker • Linux **
 ---
 
 🇧🇷 [Português](#-português) • 🇺🇸 [English](#-english)
@@ -12,14 +12,6 @@
 Construindo APIs REST escaláveis e aprimorando continuamente meus conhecimentos em arquitetura de software, Linux e DevOps.
 
 Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas** na **URCAMP**.
-
----
-
-# 🇺🇸 English
-
-Building scalable REST APIs while continuously improving my skills in software architecture, Linux, and DevOps.
-
-Currently pursuing a degree in **Systems Analysis and Development** at **URCAMP**.
 
 ---
 
