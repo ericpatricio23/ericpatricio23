@@ -36,7 +36,7 @@ Linux • Docker • Docker Compose • Nginx • Git • GitHub
 
 ---
 
-# 🛠️ Tecnologias | Technologies
+# 🛠️ Tecnologias 
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,redis,docker,linux,nginx,maven,git,github,html,css,js,ts,nextjs,idea,vscode,postman" />
