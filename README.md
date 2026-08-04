@@ -1,6 +1,7 @@
 # 👨🏻‍💻 Eric Patricio
 
-**Desenvolvedor Back-End | Java • Spring Boot • PostgreSQL • Docker**
+**Back-End Developer | Java • Spring Boot • PostgreSQL • Docker • Linux **
+---
 
 🇧🇷 [Português](#-português) • 🇺🇸 [English](#-english)
 
@@ -14,34 +15,15 @@ Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas** na **URC
 
 ---
 
-# 🛠️ Stack
+# 🇺🇸 English
 
-### ☕ Back-End
+Building scalable REST APIs while continuously improving my skills in software architecture, Linux, and DevOps.
 
-* Java
-* Spring Boot
-* Spring Security
-* Maven
+Currently pursuing a degree in **Systems Analysis and Development** at **URCAMP**.
 
-### 🗄️ Banco de Dados | Databases
+---
 
-* PostgreSQL
-* MongoDB
-
-### 🐳 Infraestrutura | Infrastructure
-
-* Docker
-* Docker Compose
-* Linux
-* Nginx
-
-### 🔧 Ferramentas | Tools
-
-* Git
-* GitHub
-* IntelliJ IDEA
-* VS Code
-* Postman
+# 🛠️ Tecnologias | Technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,docker,linux,nginx,maven,git,github,idea,vscode,postman" />
@@ -49,14 +31,10 @@ Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas** na **URC
 
 ---
 
-# 📊 GitHub Stats
+# 💼 LinkedIn
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ericpatricio23&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericpatricio23&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
+<a href="https://www.linkedin.com/in/eric-patricio-15a14035a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 
-* LinkedIn
-* E-mail
