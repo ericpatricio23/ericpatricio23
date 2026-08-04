@@ -4,7 +4,7 @@
 
 ---
 
-🇧🇷 [Português](#-português) • 🇺🇸 [English](#-english)
+🇧🇷 [Português](#-português) • 🇺🇸 [English](README.en.md)
 
 ---
 
