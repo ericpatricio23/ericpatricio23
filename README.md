@@ -1,28 +1,55 @@
 # 👨🏻‍💻 Eric Patricio
-`Desenvolvedor Back-End`
 
-Me chamo Eric, tenho 23 anos e sou natural do Rio Grande do Sul. Atualmente curso Análise e Desenvolvimento de Sistemas. A programação entrou na minha vida há 3 anos e desde então meu foco é a área da tecnologia — hoje atuo na construção de APIs sólidas e sistemas robustos utilizando Java com Spring Boot.
+## 🇧🇷 Português
+
+**Desenvolvedor Back-End | Java • Spring Boot • PostgreSQL • Docker**
+
+Construindo APIs REST escaláveis e aprimorando continuamente meus conhecimentos em arquitetura de software, Linux e DevOps.
+
+Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas** na **URCAMP**.
 
 ---
 
-## 🛠️ Ferramentas & Tecnologias
+## 🇺🇸 English
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,postgres,mongodb,docker,linux,git,github" />
+**Back-End Developer | Java • Spring Boot • PostgreSQL • Docker**
+
+Building scalable REST APIs while continuously improving my skills in software architecture, Linux, and DevOps.
+
+Currently pursuing a degree in **Systems Analysis and Development** at **URCAMP**.
+
+---
+
+## 🛠️ Tecnologias | Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,docker,linux,nginx,maven,git,github,idea,vscode,postman" />
 </p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=flat&logo=trello&logoColor=white)
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=ericpatricio23&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericpatricio23&layout=compact&theme=github_dark&hide_border=true"
+  />
+</p>
+
+---
+
+## 📫 Contato | Contact
+
+<p align="left">
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
