@@ -1,8 +1,6 @@
 # 👨🏻‍💻 Eric Patricio
 
-**Desenvolvedor de Software | Java • Spring Boot • PostgreSQL • Docker • Linux**
-
----
+**Desenvolvedor Backend | Java • Spring Boot • PostgreSQL • Docker • Linux • AWS**
 
 🇧🇷 [Português](#-português) • 🇺🇸 [English](README.en.md)
 
@@ -10,44 +8,41 @@
 
 # 🇧🇷 Português
 
-Construindo APIs REST escaláveis e aprimorando continuamente meus conhecimentos em arquitetura de software, Linux e DevOps.
+Desenvolvedor Backend com foco em **Java e ecossistema Spring**, com experiência prática no desenvolvimento de **APIs REST** utilizando Spring Boot.
 
-Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas** na **URCAMP**.
+Tenho interesse em **arquitetura de software, infraestrutura, DevOps e Cloud**, buscando construir aplicações seguras, escaláveis e bem estruturadas.
 
----
-
-# 🛠️ Stack
-
-### 💻 Front-End
-
-HTML • CSS • JavaScript • TypeScript • Next.js
-
-### ☕ Back-End
-
-Java • Spring Boot • Spring Security • Maven • REST APIs
-
-### 🗄️ Banco de Dados
-
-PostgreSQL • MongoDB • Redis
-
-### 🐳 Infraestrutura & DevOps
-
-Linux • Docker • Docker Compose • Nginx • Git • GitHub
+Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas na URCAMP**.
 
 ---
 
-# 🛠️ Tecnologias 
+## 💻 Backend
+
+**Java • Spring Boot • Spring Security • REST APIs • JPA/Hibernate • Testes**
+
+## ⚙️ Infraestrutura & DevOps
+
+**Linux • Redes • Git • Docker • Docker Compose • Nginx • CI/CD**
+
+## ☁️ Cloud
+
+**AWS • EC2 • S3 • Elastic Load Balancing • Alta disponibilidade • Escalabilidade**
+
+## 🗄️ Banco de Dados
+
+**PostgreSQL • MongoDB • Redis**
+
+## 🌐 Frontend
+
+**HTML • CSS • JavaScript • TypeScript • Next.js**
+
+---
+
+## 🛠️ Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,redis,docker,linux,nginx,maven,git,github,html,css,js,ts,nextjs,idea,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,aws,postgres,mongodb,redis,docker,linux,nginx,maven,git,github,html,css,js,ts,nextjs,idea,vscode,postman" />
 </p>
 
---- 
-
-# 💼 LinkedIn
-
-<a href="https://www.linkedin.com/in/eric-patricio-15a14035a/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
 
