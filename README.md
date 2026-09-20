@@ -2,11 +2,6 @@
 
 **Desenvolvedor Backend | Java • Spring Boot • PostgreSQL • Docker • Linux • AWS**
 
-🇧🇷 [Português](#-português) • 🇺🇸 [English](README.en.md)
-
----
-
-# 🇧🇷 Português
 
 Desenvolvedor Backend com foco em **Java e ecossistema Spring**, com experiência prática no desenvolvimento de **APIs REST** utilizando Spring Boot.
 
